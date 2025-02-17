@@ -1,0 +1,26 @@
+
+Nombre y Apellidos: PEPITO GRILLO    Teléfono: 987654321    E-Mail: pepitogrillo@gmail.com 
+
+Dirección: Calle del pez volador  
+
+NIF: 123456789Z     Afiliación SS: 8593459827349     Datos Bancarios: Es123456123412341234
+
+CONCEPTOS SALARIALES ----------------------------------------------------------------------
+
+SALARIO ANUAL: 100000.0    PAGAS: 2.0    IRPF: 12.0   SEGURIDAD SOCIAL: 5000      
+
+==========================================================================================
+
+
+Nombre y Apellidos: PEPITO GRILLO    Teléfono: 666666666    E-Mail: pepitogrillo@gmail.com 
+
+Dirección: Calle del pez volador  
+
+NIF: 123456789Z     Afiliación SS: 987654321     Datos Bancarios: ES1212345678912345678912
+
+CONCEPTOS SALARIALES ----------------------------------------------------------------------
+
+SALARIO ANUAL: 100000.0    PAGAS: 5.0    IRPF: 15.0   SEGURIDAD SOCIAL: 8         
+
+==========================================================================================
+
